@@ -20,9 +20,6 @@ During preprocessing, the following steps are performed:
 
 The CNN model architecture consists of several convolutional layers followed by max-pooling layers for feature extraction. The final layers include fully connected (dense) layers for classification. The summary of the model architecture can be found in the script.
 
-## Model Evaluation
-
-The models are evaluated based on accuracy, confusion matrix, and classification reports. The performance of each model is analyzed to determine its effectiveness in sentiment classification.
 
 ## How to Run Locally
 
